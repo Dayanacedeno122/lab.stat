@@ -1,0 +1,201 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Bovas \harvardand\ Thavaneswaran}{1991}{Bovastha1991}
+Bovas, A. \harvardand\ Thavaneswaran, A.  \harvardyearleft
+  1991\harvardyearright , `{A nonlinear time series model and estimation of
+  missing data.}', {\em Annals of the Institute of Statistical Mathematics}
+  {\bf 43}(3),~493--504.
+
+\harvarditem{Calderon \harvardand\ Nieto}{2017}{Calderon2017}
+Calderon, S. \harvardand\ Nieto, F.  \harvardyearleft 2017\harvardyearright ,
+  `{Bayesian analysis of Multivariate Threshold Autoregressive Models with
+  Missing Data.}', {\em Communications in Statistics: Theory and Methods} {\bf
+  46}(1),~296--318.
+
+\harvarditem{Carlin \harvardand\ Chib}{1995}{CarChib1995}
+Carlin, B.~P. \harvardand\ Chib, S.  \harvardyearleft 1995\harvardyearright ,
+  `{Bayesian Model Choice via Markov Chain Monte Carlo Methods.}', {\em Journal
+  of the Royal Statistical Society. Series B (Methodological)} {\bf
+  57}(3),~473--484.
+
+\harvarditem[Carlin et~al.]{Carlin, Polson \harvardand\
+  Stoffer}{1992}{CarpolSto1992}
+Carlin, B.~P., Polson, N.~G. \harvardand\ Stoffer, D.~S.  \harvardyearleft
+  1992\harvardyearright , `{A Monte Carlo approach to Nonnormal and Nonlinear
+  State-Space Modeling.}', {\em Journal of the American Statistical
+  Association} {\bf 87}(418),~473--484.
+
+\harvarditem{Carter \harvardand\ Konh}{1994}{CarKonh1994}
+Carter, C. \harvardand\ Konh, R.  \harvardyearleft 1994\harvardyearright , `{On
+  Gibbs Sampling for State Space Models.}', {\em Biometrika} {\bf
+  81}(3),~541--553.
+
+\harvarditem{Chen \harvardand\ Lee}{1995}{Chen1995}
+Chen, C. \harvardand\ Lee, J.  \harvardyearleft 1995\harvardyearright ,
+  `{Bayesian inference of threshold autoregressive models.}', {\em Journal of
+  Time Series Analysis} {\bf 16}(5),~483--492.
+
+\harvarditem[Chen et~al.]{Chen, Liu \harvardand\ Gerlach}{2011}{Chen2011}
+Chen, C. W.~S., Liu, F. \harvardand\ Gerlach, R.  \harvardyearleft
+  2011\harvardyearright , `{Bayesian subset selection for threshold
+  autoregressive moving-average models.}', {\em Computational Statistics} {\bf
+  26}(1),~1--30.
+
+\harvarditem{Chib}{1995}{Chib1995}
+Chib, S.  \harvardyearleft 1995\harvardyearright , `{Marginal Likelihood from
+  the Gibbs Output.}', {\em Journal of the American Statistical Association}
+  {\bf 90}(432),~1313--1321.
+
+\harvarditem{Chib \harvardand\ Jeliazkov}{2001}{Chib2001}
+Chib, S. \harvardand\ Jeliazkov, I.  \harvardyearleft 2001\harvardyearright ,
+  `{Marginal Likelihood from the Metropolis-Hastings Output.}', {\em Journal of
+  the American Statistical Association} {\bf 96}(453),~270--281.
+
+\harvarditem{De~Gooijer \harvardand\ Vidiella-i Anguera}{2004}{DeGooijer2004}
+De~Gooijer, J.~G. \harvardand\ Vidiella-i Anguera, A.  \harvardyearleft
+  2004\harvardyearright , `{Forecasting threshold cointegrated systems.}', {\em
+  International Journal of Forecasting} {\bf 20}(2),~237--253.
+
+\harvarditem[Dellaportas et~al.]{Dellaportas, Forster \harvardand\
+  Ntzoufras}{2002}{Dellaportas2002}
+Dellaportas, P., Forster, J. \harvardand\ Ntzoufras, I.  \harvardyearleft
+  2002\harvardyearright , `{On Bayesian model and variable selection using
+  MCMC.}', {\em Statistics and Computing} {\bf 12}(1),~27--36.
+
+\harvarditem{Frh\"{u}wirth-Schnatter}{1995}{Sylvia1994}
+Frh\"{u}wirth-Schnatter, S.  \harvardyearleft 1995\harvardyearright , `{Data
+  augmentation and dynamic linear models.}', {\em Journal of Time Series
+  Analysis} {\bf 15}(2),~183--202.
+
+\harvarditem{George \harvardand\ McCulloch}{1993}{GeorgeMac1993}
+George, E. \harvardand\ McCulloch, R.  \harvardyearleft 1993\harvardyearright ,
+  `{Variable Selection Via Gibbs Sampling.}', {\em Journal of the American
+  Statistical Association} {\bf 8}(423),~881--889.
+
+\harvarditem{Green}{1995}{Green1995}
+Green, P.  \harvardyearleft 1995\harvardyearright , `{Reversible Jump Markov
+  Chain Monte Carlo Computation and Bayesian Model Determination.}', {\em
+  Biometrika} {\bf 82}(4),~711--732.
+
+\harvarditem{Hansen}{2011}{Hansen2011}
+Hansen, B.  \harvardyearleft 2011\harvardyearright , `{Threshold autoregression
+  in economics.}', {\em Statistics and Its Interface} {\bf 4}(2),~123--127.
+
+\harvarditem{Harvey}{1989}{Harvey1989}
+Harvey, A.  \harvardyearleft 1989\harvardyearright , {\em {Forecasting,
+  structural time series model and the Kalman filter.}}, Cambridge University
+  Press, Cambridge.
+
+\harvarditem{Hong \harvardand\ Lee}{2003}{Hong2003}
+Hong, T. \harvardand\ Lee, T.  \harvardyearleft 2003\harvardyearright ,
+  `{Diagnostic Checking for the Adequacy of Nonlinear Time Series Models.}',
+  {\em Econometric Theory} {\bf 19}(6),~1065--1121.
+
+\harvarditem{Kuo \harvardand\ Mallick}{1998}{Kuo1998}
+Kuo, L. \harvardand\ Mallick, B.  \harvardyearleft 1998\harvardyearright ,
+  `{Variable Selection for Regression Models.}', {\em
+  Sankhy$\overline{\text{a}}$: The Indian Journal of Statistics, Series B} {\bf
+  60}(1),~65--81.
+
+\harvarditem{Kwon}{2003}{Kwonthesis2009}
+Kwon, Y.  \harvardyearleft 2003\harvardyearright , {Bayesian Analysis of
+  Threshold Autoregressive Models.}, PhD thesis, University of Tennessee -
+  Knoxville.
+
+\harvarditem[Kwon et~al.]{Kwon, Bozdogan \harvardand\ Bensmail}{2009}{Kwon2009}
+Kwon, Y., Bozdogan, H. \harvardand\ Bensmail, H.  \harvardyearleft
+  2009\harvardyearright , `{Performance of Model Selection Criteria in Bayesian
+  Threshold VAR (TVAR) Models.}', {\em Econometric Reviews} {\bf
+  28}(1-3),~83--101.
+
+\harvarditem{Ling \harvardand\ Li}{1997}{Ling1997}
+Ling, S. \harvardand\ Li, W.  \harvardyearleft 1997\harvardyearright ,
+  `{Diagnostic checking of nonlinear multivariate time series with multivariate
+  arch errors.}', {\em Journal of Time Series Analysis.} {\bf 18}(5),~447--464.
+
+\harvarditem{Meyn \harvardand\ Tweedie}{2009}{Meyn2009}
+Meyn, S. \harvardand\ Tweedie, R.  \harvardyearleft 2009\harvardyearright ,
+  {\em {Markov Chains and Stochastic Stability.}}, Oxford Statistical Science,
+  CAMBRIDGE UNIVERSITY PRESS, Cambridge.
+
+\harvarditem{Nieto}{2005}{Nieto2005}
+Nieto, F.  \harvardyearleft 2005\harvardyearright , `{Modeling Bivariate
+  Threshold Autoregressive Processes in the Presence of Missing Data.}', {\em
+  Communications in Statistics - Theory and Methods.} {\bf 34}(4),~905--930.
+
+\harvarditem{Nieto}{2008}{Nieto2008}
+Nieto, F.  \harvardyearleft 2008\harvardyearright , `{Forecasting with
+  univariate TAR models.}', {\em Statistical Methodology} {\bf 5}(3),~263--273.
+
+\harvarditem{Nieto \harvardand\ Hoyos}{2011}{Nieto2011}
+Nieto, F. \harvardand\ Hoyos, M.  \harvardyearleft 2011\harvardyearright ,
+  `{Testing Linearity against a Univariate TAR Specification in Time Series
+  with Missing Data.}', {\em Revista Colombiana de Estadística} {\bf
+  34}(1),~73--94.
+
+\harvarditem[Nieto et~al.]{Nieto, Zhang \harvardand\ Li}{2013}{Nieto2013}
+Nieto, F., Zhang, H. \harvardand\ Li, W.  \harvardyearleft
+  2013\harvardyearright , `{Using the Reversible Jump MCMC Procedure for
+  Identifying and Estimating Univariate TAR Models.}', {\em Communications in
+  Statistics - Simulation and Computation} {\bf 42}(4),~814--840.
+
+\harvarditem{O'Hara \harvardand\ Sillanpaa}{2009}{Ohara2009}
+O'Hara, R. \harvardand\ Sillanpaa, M.  \harvardyearleft 2009\harvardyearright ,
+  `{A Review of Bayesian Variable Selection Methods: What, How and Which.}',
+  {\em Bayesian Analysis} {\bf 4}(1),~85--118.
+
+\harvarditem{Paroli \harvardand\ Spezia}{2008}{Paroli2008}
+Paroli, R. \harvardand\ Spezia, L.  \harvardyearleft 2008\harvardyearright ,
+  `{Bayesian Variable Selection in Markov Mixture Models.}', {\em
+  Communications in Statistics-Simulation and Computation} {\bf 37}(1),~25--47.
+
+\harvarditem{{R Core Team}}{2013}{Rpackage}
+{R Core Team}  \harvardyearleft 2013\harvardyearright , {\em R: A Language and
+  Environment for Statistical Computing}, R Foundation for Statistical
+  Computing, Vienna, Austria.
+\newline\harvardurl{http://www.R-project.org/}
+
+\harvarditem{Robert \harvardand\ Casella}{2004}{Robert2004}
+Robert, C. \harvardand\ Casella, G.  \harvardyearleft 2004\harvardyearright ,
+  {\em {Monte Carlo Statistical Methods.}}, Springer texts in Statistics,
+  Springer Science+Business Media Inc., 233 Spring Street, New York, NY 10013,
+  USA.
+
+\harvarditem{Safadi \harvardand\ Morettin}{2000}{Morettin2000}
+Safadi, T. \harvardand\ Morettin, P.  \harvardyearleft 2000\harvardyearright ,
+  `{Bayesian Analysis of Threshold Autoregressive Moving Average Models.}',
+  {\em Sankhy$\overline{\text{a}}$: The Indian Journal of Statistics, Series
+  B.} {\bf 62}(3),~353--371.
+
+\harvarditem{So \harvardand\ Chen}{2003}{So2003}
+So, M. \harvardand\ Chen, C. W.~S.  \harvardyearleft 2003\harvardyearright ,
+  `{Subset Threshold Autoregression.}', {\em Journal of Forecasting} {\bf
+  22}(1),~49--66.
+
+\harvarditem{Thavaneswaran \harvardand\ Bovas}{1991}{ThaBovas1991}
+Thavaneswaran, A. \harvardand\ Bovas, A.  \harvardyearleft
+  1991\harvardyearright , `{Estimation of multivariate non-linear time series
+  models}', {\em Journal of Statistical Planning and Inference} {\bf
+  29}(3),~351--363.
+
+\harvarditem{Tong}{1990}{Tong1990}
+Tong, H.  \harvardyearleft 1990\harvardyearright , {\em {Nonlinear Time Series,
+  A Dynamical System Approach.}}, Oxford Statistical Science, Oxford University
+  Press, Oxford.
+
+\harvarditem{Tsay}{1998}{Tsay1998}
+Tsay, R.~S.  \harvardyearleft 1998\harvardyearright , `{Testing and Modeling
+  Multivariate Threshold Models.}', {\em Journal of the American Statistical
+  Association} {\bf 93}(443),~467--482.
+
+\harvarditem{Vargas}{2012}{Vargas2012}
+Vargas, L.  \harvardyearleft 2012\harvardyearright , {C\'alculo de la
+  distribuci\'on predictiva en un modelo TAR}, Master's thesis, Universidad
+  Nacional de Colombia, Colombia.
+
+\harvarditem{Wu \harvardand\ Lee}{2011}{Wu2011}
+Wu, C. \harvardand\ Lee, J.  \harvardyearleft 2011\harvardyearright ,
+  `{Forecasting Time-Varying Covariance with a Robust Bayesian Threshold
+  Model.}', {\em Journal of Forecasting} {\bf 30}(5),~451--468.
+
+\end{thebibliography}
