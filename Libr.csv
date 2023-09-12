@@ -1,0 +1,246 @@
+FECHA;CoDIGO DE USUARIO;PRODUCTO/S  VENDIDOS CALLE 1 [PRODUCTO/S VENDIDOS ];UBICACION 1;MONTO POR CALLE 1
+5/6/2023;1.2;PERAS, MANZANAS, BANANA, SANDIA, PINA;Av. Rocafuerte;$15 a $20 dolares
+6/6/2023;1.2;MANZANAS, FRESAS, BANANA, SANDIA, PINA;Av. Rocafuerte;$20 a $25 dolares
+7/6/2023;1.2;MANZANAS, FRESAS;Av. Rocafuerte;$5 a $10 dolares
+8/6/2023;1.2;MANZANAS, FRESAS;Av. Rocafuerte;$5 a $10 dolares
+9/6/2023;1.2;MANZANAS, FRESAS, BANANA;Av. Rocafuerte;$10 a $15 dolares
+10/6/2023;1.2;MANZANAS, PINA;Av. Rocafuerte;$5 a $10 dolares
+11/6/2023;1.2;BANANA;Av. Rocafuerte;$5 a $10 dolares
+5/6/2023;2.1;PERAS, MANZANAS, FRESAS, UVAS;Av. Quito ;$20 a $25 dolares
+6/6/2023;2.1;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN, UVAS;Av. Quito ;$35 a $40 dolares
+7/6/2023;2.1;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, UVAS;Av. Quito ;$25 a $30 dolares
+8/6/2023;2.1;BANANA;Av. Quito ;$30 a $35 dolares
+9/6/2023;2.1;PERAS, MANZANAS, FRESAS, UVAS;Av. Quito ;$15 a $20 dolares
+10/6/2023;2.1;BANANA;Av. Quito ;$25 a $30 dolares
+11/6/2023;2.1;MANZANAS, FRESAS, UVAS;Av. Quito ;$20 a $25 dolares
+5/6/2023;3.3;PERAS, MANZANAS, BANANA, SANDIA, PINA;Av. Paulo Emilio Macias;$10 a $15 dolares
+6/6/2023;3.3;BANANA, SANDIA, PINA, MELoN, UVAS;Av. Paulo Emilio Macias;$15 a $20 dolares
+7/6/2023;3.3;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN, UVAS;Av. Paulo Emilio Macias;$15 a $20 dolares
+8/6/2023;3.3;PERAS, MANZANAS, FRESAS, BANANA;Av. Paulo Emilio Macias;$10 a $15 dolares
+9/6/2023;3.3;PERAS, SANDIA, UVAS;Av. Paulo Emilio Macias;$5 a $10 dolares
+10/6/2023;3.3;PERAS, MANZANAS, FRESAS, BANANA, SANDIA;Av. Paulo Emilio Macias;$10 a $15 dolares
+11/6/2023;3.3;PERAS, BANANA;Av. Paulo Emilio Macias;$5 a $10 dolares
+5/6/2023;4.2;MANZANAS, FRESAS, BANANA;Av. Olmedo;$5 a $10 dolares
+6/6/2023;4.2;SANDIA;Av. Olmedo;$5 a $10 dolares
+7/6/2023;4.2;PERAS, FRESAS, PINA, MELoN;Av. Olmedo;$10 a $15 dolares
+8/6/2023;4.2;MANZANAS, FRESAS, BANANA;Av. Olmedo;$5 a $10 dolares
+9/6/2023;4.2;MANZANAS, BANANA;Av. Olmedo;$5 a $10 dolares
+10/6/2023;4.2;FRESAS, BANANA, SANDIA;Av. Olmedo;$10 a $15 dolares
+11/6/2023;4.2;MANZANAS, FRESAS, SANDIA, PINA, UVAS;Av. Olmedo;$15 a $20 dolares
+5/6/2023;5.2;PERAS, MANZANAS, FRESAS, BANANA;CallejoN LeoNel CedeNo, AveNida Paulo Emilio Macias ;$10 a $15 dolares
+6/6/2023;5.2;PERAS, FRESAS, SANDIA;CallejoN LeoNel CedeNo, AveNida Paulo Emilio Macias ;$5 a $10 dolares
+7/6/2023;5.2;BANANA, SANDIA, PINA;CallejoN LeoNel CedeNo, AveNida Paulo Emilio Macias ;$5 a $10 dolares
+8/6/2023;5.2;PERAS, MANZANAS, FRESAS, SANDIA, PINA;CallejoN LeoNel CedeNo, AveNida Paulo Emilio Macias ;$15 a $20 dolares
+9/6/2023;5.2;MANZANAS, FRESAS, BANANA, SANDIA, PINA;CallejoN LeoNel CedeNo, AveNida Paulo Emilio Macias ;$10 a $15 dolares
+10/6/2023;5.2;MANZANAS, FRESAS, BANANA, SANDIA, PINA;CallejoN LeoNel CedeNo, AveNida Paulo Emilio Macias ;$15 a $20 dolares
+11/6/2023;5.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, UVAS;CallejoN LeoNel CedeNo, AveNida Paulo Emilio Macias ;$15 a $20 dolares
+5/6/2023;6.1;PERAS, FRESAS, BANANA, MELoN, UVAS;Av. Pedro Gual;$10 a $15 dolares
+6/6/2023;6.1;PERAS, BANANA, SANDIA, UVAS;Av. Pedro Gual;$5 a $10 dolares
+7/6/2023;6.1;MANZANAS, BANANA, SANDIA, MELoN, UVAS;Av. Pedro Gual;$10 a $15 dolares
+8/6/2023;6.1;MANZANAS, FRESAS, PINA, UVAS;Av. Pedro Gual;$5 a $10 dolares
+9/6/2023;6.1;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN, UVAS;Av. Pedro Gual;$15 a $20 dolares
+10/6/2023;6.1;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, MELoN, UVAS;Av. Pedro Gual;$15 a $20 dolares
+11/6/2023;6.1;PERAS, BANANA, PINA, UVAS;Av. Pedro Gual;$5 a $10 dolares
+5/6/2023;7.2;PERAS, MANZANAS, FRESAS, PINA, UVAS;Calle 10 de Agosto;$10 a $15 dolares
+6/6/2023;7.2;PERAS, MANZANAS, FRESAS, PINA, UVAS;Calle 10 de Agosto;$5 a $10 dolares
+7/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle 10 de Agosto;$20 a $25 dolares
+8/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle 10 de Agosto;$20 a $25 dolares
+9/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle 10 de Agosto;$30 a $35 dolares
+10/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle 10 de Agosto;$10 a $15 dolares
+11/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle 10 de Agosto;$25 a $30 dolares
+5/6/2023;1.2;PERAS, MANZANAS, BANANA;Av. Morales;$5 a $10 dolares
+6/6/2023;1.2;PERAS, MANZANAS;Av. Morales;$5 a $10 dolares
+7/6/2023;1.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA;Av. Morales;$15 a $20 dolares
+8/6/2023;1.2;MANZANAS, BANANA, SANDIA;Av. Morales;$10 a $15 dolares
+9/6/2023;1.2;PERAS, MANZANAS;Av. Morales;$5 a $10 dolares
+10/6/2023;1.2;MANZANAS, FRESAS, SANDIA;Av. Morales;$10 a $15 dolares
+11/6/2023;1.2;MANZANAS, SANDIA;Av. Morales;$10 a $15 dolares
+5/6/2023;2.1;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, UVAS;Av.  Chile;$30 a $35 dolares
+6/6/2023;2.1;PERAS, MANZANAS, FRESAS, UVAS;Av.  Chile;$15 a $20 dolares
+7/6/2023;2.1;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN, UVAS;Av.  Chile;Mas de $40 dolares
+8/6/2023;2.1;PERAS, MANZANAS, FRESAS, UVAS;Av.  Chile;$20 a $25 dolares
+9/6/2023;2.1;PERAS, MANZANAS, FRESAS, SANDIA, UVAS;Av.  Chile;$20 a $25 dolares
+10/6/2023;2.1;PERAS, MANZANAS, FRESAS, UVAS;Av.  Chile;$30 a $35 dolares
+11/6/2023;2.1;MANZANAS, FRESAS, MELoN, UVAS;Av.  Chile;$30 a $35 dolares
+5/6/2023;3.3;MANZANAS, FRESAS, BANANA, SANDIA, PINA;Calle Octava;$10 a $15 dolares
+6/6/2023;3.3;PERAS, MANZANAS, FRESAS, SANDIA;Calle Octava;$5 a $10 dolares
+7/6/2023;3.3;FRESAS, UVAS;Calle Octava;$5 a $10 dolares
+8/6/2023;3.3;PERAS, MANZANAS, FRESAS, BANANA, SANDIA;Calle Octava;$15 a $20 dolares
+9/6/2023;3.3;PERAS, MANZANAS, BANANA, SANDIA;Calle Octava;$5 a $10 dolares
+10/6/2023;3.3;FRESAS, BANANA, SANDIA, UVAS;Calle Octava;$5 a $10 dolares
+11/6/2023;3.3;MANZANAS, SANDIA, UVAS;Calle Octava;$5 a $10 dolares
+5/6/2023;4.2;MANZANAS, PINA, MELoN, UVAS;Av. America;$10 a $15 dolares
+6/6/2023;4.2;FRESAS, UVAS;Av. America;$10 a $15 dolares
+7/6/2023;4.2;MANZANAS, BANANA, PINA, MELoN;Av. America;$10 a $15 dolares
+8/6/2023;4.2;BANANA, MELoN;Av. America;$5 a $10 dolares
+9/6/2023;4.2;FRESAS, UVAS;Av. America;$5 a $10 dolares
+10/6/2023;4.2;PERAS, PINA, MELoN, UVAS;Av. America;$10 a $15 dolares
+11/6/2023;4.2;FRESAS, BANANA, PINA, MELoN;Av. America;$10 a $15 dolares
+5/6/2023;5.2;MANZANAS, FRESAS, BANANA, SANDIA;Av. Paulo Emilio Macias;$10 a $15 dolares
+6/6/2023;5.2;PERAS, SANDIA, PINA, MELoN, UVAS;Av. Paulo Emilio Macias;$10 a $15 dolares
+7/6/2023;5.2;PERAS, BANANA, SANDIA, PINA, MELoN, UVAS;Av. Paulo Emilio Macias;$15 a $20 dolares
+8/6/2023;5.2;FRESAS, SANDIA, PINA, MELoN, UVAS;Av. Paulo Emilio Macias;$10 a $15 dolares
+9/6/2023;5.2;PERAS, MANZANAS, PINA, MELoN, UVAS;Av. Paulo Emilio Macias;$15 a $20 dolares
+10/6/2023;5.2;PERAS, MANZANAS, FRESAS, PINA, MELoN, UVAS;Av. Paulo Emilio Macias;$15 a $20 dolares
+11/6/2023;5.2;PERAS, MANZANAS, SANDIA, PINA, MELoN, UVAS;Av. Paulo Emilio Macias;$15 a $20 dolares
+5/6/2023;6.1;PERAS, MANZANAS, FRESAS, UVAS;Av. Ricaurte ;$10 a $15 dolares
+6/6/2023;6.1;PERAS, MANZANAS, UVAS;Av. Ricaurte ;$5 a $10 dolares
+7/6/2023;6.1;PERAS, MANZANAS, FRESAS;Av. Ricaurte ;$5 a $10 dolares
+8/6/2023;6.1;PERAS, MANZANAS, SANDIA, MELoN, UVAS;Av. Ricaurte ;$10 a $15 dolares
+9/6/2023;6.1;PERAS, MANZANAS, FRESAS, UVAS;Av. Ricaurte ;$10 a $15 dolares
+10/6/2023;6.1;PERAS, MANZANAS, MELoN, UVAS;Av. Ricaurte ;$5 a $10 dolares
+11/6/2023;6.1;PERAS, MANZANAS, FRESAS;Av. Ricaurte ;$5 a $10 dolares
+5/6/2023;7.2;PERAS, MANZANAS, FRESAS, PINA, UVAS;Calle Espejo;$15 a $20 dolares
+6/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle Espejo;$15 a $20 dolares
+7/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle Espejo;$5 a $10 dolares
+8/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle Espejo;$5 a $10 dolares
+9/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle Espejo;$20 a $25 dolares
+10/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle Espejo;$10 a $15 dolares
+11/6/2023;7.2;PERAS, MANZANAS, FRESAS, PINA, UVAS;Calle Espejo;$15 a $20 dolares
+5/6/2023;1.2;MANZANAS, FRESAS;Calle ColoN;$5 a $10 dolares
+6/6/2023;1.2;MANZANAS, FRESAS;Calle ColoN;$5 a $10 dolares
+7/6/2023;1.2;MANZANAS, BANANA;Calle ColoN;$5 a $10 dolares
+8/6/2023;1.2;PERAS, MANZANAS, BANANA, SANDIA;Calle ColoN;$10 a $15 dolares
+9/6/2023;1.2;MANZANAS, SANDIA;Calle ColoN;$5 a $10 dolares
+10/6/2023;1.2;MANZANAS, BANANA;Calle ColoN;$5 a $10 dolares
+11/6/2023;1.2;MANZANAS;Calle ColoN;$5 a $10 dolares
+5/6/2023;2.1;BANANA;Cordova;$15 a $20 dolares
+6/6/2023;2.1;SANDIA, PINA, MELoN;Cordova;$25 a $30 dolares
+7/6/2023;2.1;PERAS, MANZANAS, FRESAS, UVAS;Cordova;$35 a $40 dolares
+8/6/2023;2.1;SANDIA, PINA, MELoN;Cordova;$30 a $35 dolares
+9/6/2023;2.1;BANANA;Cordova;$25 a $30 dolares
+10/6/2023;2.1;SANDIA, PINA, MELoN;Cordova;$30 a $35 dolares
+11/6/2023;2.1;BANANA, SANDIA, PINA, MELoN;Cordova;$30 a $35 dolares
+5/6/2023;3.3;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN, UVAS;Cesar Chavez CaNarte;$15 a $20 dolares
+6/6/2023;3.3;PERAS, FRESAS, SANDIA, MELoN, UVAS;Cesar Chavez CaNarte;$5 a $10 dolares
+7/6/2023;3.3;MANZANAS, FRESAS, BANANA;Cesar Chavez CaNarte;$5 a $10 dolares
+8/6/2023;3.3;PERAS, FRESAS, BANANA, PINA, UVAS;Cesar Chavez CaNarte;$5 a $10 dolares
+9/6/2023;3.3;FRESAS, BANANA, PINA;Cesar Chavez CaNarte;$5 a $10 dolares
+10/6/2023;3.3;PERAS, SANDIA, PINA, MELoN, UVAS;Cesar Chavez CaNarte;$5 a $10 dolares
+11/6/2023;3.3;FRESAS, SANDIA;Cesar Chavez CaNarte;$5 a $10 dolares
+5/6/2023;4.2;PERAS, SANDIA, MELoN;Av. Chile;$5 a $10 dolares
+6/6/2023;4.2;MANZANAS, BANANA, SANDIA, MELoN;Av. Chile;$15 a $20 dolares
+7/6/2023;4.2;PERAS, SANDIA, PINA, MELoN, UVAS;Av. Chile;$15 a $20 dolares
+8/6/2023;4.2;BANANA, PINA, MELoN;Av. Chile;$10 a $15 dolares
+9/6/2023;4.2;MANZANAS, SANDIA, PINA, MELoN;Av. Chile;$15 a $20 dolares
+10/6/2023;4.2;MANZANAS, FRESAS, BANANA, SANDIA;Av. Chile;$10 a $15 dolares
+11/6/2023;4.2;PERAS, BANANA, SANDIA, PINA, UVAS;Av. Chile;$10 a $15 dolares
+5/6/2023;5.2;PERAS, MANZANAS, PINA, MELoN, UVAS;Calle CoNstaNtiNo MeNdoza Moreira;$10 a $15 dolares
+6/6/2023;5.2;PERAS, MANZANAS, FRESAS;Calle CoNstaNtiNo MeNdoza Moreira;$10 a $15 dolares
+7/6/2023;5.2;BANANA, SANDIA, PINA, MELoN;Calle CoNstaNtiNo MeNdoza Moreira;$10 a $15 dolares
+8/6/2023;5.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA;Calle CoNstaNtiNo MeNdoza Moreira;$10 a $15 dolares
+9/6/2023;5.2;PERAS, FRESAS, BANANA, SANDIA, PINA, MELoN;Calle CoNstaNtiNo MeNdoza Moreira;$15 a $20 dolares
+10/6/2023;5.2;PERAS, PINA, MELoN, UVAS;Calle CoNstaNtiNo MeNdoza Moreira;$10 a $15 dolares
+11/6/2023;5.2;FRESAS, BANANA, SANDIA, PINA, MELoN;Calle CoNstaNtiNo MeNdoza Moreira;$10 a $15 dolares
+5/6/2023;6.1;MANZANAS, BANANA, MELoN, UVAS;Av. Ramos Iduarte;$5 a $10 dolares
+6/6/2023;6.1;PERAS, FRESAS, BANANA, SANDIA, PINA;Av. Ramos Iduarte;$10 a $15 dolares
+7/6/2023;6.1;BANANA, SANDIA, PINA, MELoN, UVAS;Av. Ramos Iduarte;$10 a $15 dolares
+8/6/2023;6.1;MANZANAS, BANANA, SANDIA, MELoN, UVAS;Av. Ramos Iduarte;$5 a $10 dolares
+9/6/2023;6.1;PERAS, MANZANAS;Av. Ramos Iduarte;$5 a $10 dolares
+10/6/2023;6.1;MANZANAS, FRESAS, SANDIA, PINA, MELoN, UVAS;Av. Ramos Iduarte;$10 a $15 dolares
+11/6/2023;6.1;PERAS, MANZANAS, FRESAS, SANDIA, UVAS;Av. Ramos Iduarte;$10 a $15 dolares
+5/6/2023;7.2;PERAS, MANZANAS, FRESAS, PINA, UVAS;Cordova;$10 a $15 dolares
+6/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Cordova;$5 a $10 dolares
+7/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Cordova;$15 a $20 dolares
+8/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Cordova;$5 a $10 dolares
+9/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Cordova;$20 a $25 dolares
+10/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Cordova;$10 a $15 dolares
+11/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Cordova;$20 a $25 dolares
+5/6/2023;1.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA;Cordova;$15 a $20 dolares
+6/6/2023;1.2;MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN;Cordova;$20 a $25 dolares
+7/6/2023;1.2;PERAS, BANANA;Cordova;$5 a $10 dolares
+8/6/2023;1.2;MANZANAS, BANANA, SANDIA, PINA, MELoN;Cordova;$15 a $20 dolares
+9/6/2023;1.2;MANZANAS, MELoN;Cordova;$5 a $10 dolares
+10/6/2023;1.2;SANDIA;Cordova;$5 a $10 dolares
+11/6/2023;1.2;PERAS, BANANA, PINA;Cordova;$10 a $15 dolares
+5/6/2023;2.1;SANDIA, PINA, MELoN;Calle ColoN;$30 a $35 dolares
+6/6/2023;2.1;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, UVAS;Calle ColoN;$25 a $30 dolares
+7/6/2023;2.1;PERAS, MANZANAS, FRESAS, UVAS;Calle ColoN;$30 a $35 dolares
+8/6/2023;2.1;PERAS, MANZANAS, FRESAS, SANDIA, UVAS;Calle ColoN;$30 a $35 dolares
+9/6/2023;2.1;PERAS, MANZANAS, FRESAS, SANDIA, UVAS;Calle ColoN;$20 a $25 dolares
+10/6/2023;2.1;PERAS, MANZANAS, FRESAS, SANDIA, PINA, UVAS;Calle ColoN;$35 a $40 dolares
+11/6/2023;2.1;BANANA;Calle ColoN;$20 a $25 dolares
+5/6/2023;3.3;PERAS, MANZANAS, BANANA, PINA, MELoN;Av. America;$5 a $10 dolares
+6/6/2023;3.3;PERAS, MANZANAS, BANANA, SANDIA, UVAS;Av. America;$10 a $15 dolares
+7/6/2023;3.3;SANDIA, PINA;Av. America;$5 a $10 dolares
+8/6/2023;3.3;FRESAS, BANANA, SANDIA, PINA, MELoN;Av. America;$5 a $10 dolares
+9/6/2023;3.3;FRESAS, BANANA, SANDIA;Av. America;$5 a $10 dolares
+10/6/2023;3.3;MANZANAS, FRESAS, BANANA, SANDIA;Av. America;$15 a $20 dolares
+11/6/2023;3.3;PERAS, MANZANAS, SANDIA;Av. America;$10 a $15 dolares
+5/6/2023;4.2;PINA;Cordova;$5 a $10 dolares
+6/6/2023;4.2;SANDIA, PINA, MELoN;Cordova;$10 a $15 dolares
+7/6/2023;4.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA;Cordova;$15 a $20 dolares
+8/6/2023;4.2;MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN;Cordova;$10 a $15 dolares
+9/6/2023;4.2;MANZANAS, BANANA, SANDIA, PINA;Cordova;$15 a $20 dolares
+10/6/2023;4.2;MANZANAS, FRESAS, BANANA, MELoN;Cordova;$10 a $15 dolares
+11/6/2023;4.2;MANZANAS, SANDIA;Cordova;$5 a $10 dolares
+5/6/2023;5.2;PERAS, SANDIA, PINA, MELoN, UVAS;Cesar Chavez CaNarte;$15 a $20 dolares
+6/6/2023;5.2;FRESAS, BANANA, PINA, MELoN, UVAS;Cesar Chavez CaNarte;$15 a $20 dolares
+7/6/2023;5.2;PERAS, FRESAS, PINA, MELoN;Cesar Chavez CaNarte;$10 a $15 dolares
+8/6/2023;5.2;PERAS, FRESAS, SANDIA, MELoN;Cesar Chavez CaNarte;$10 a $15 dolares
+9/6/2023;5.2;PERAS, PINA, MELoN, UVAS;Cesar Chavez CaNarte;$10 a $15 dolares
+10/6/2023;5.2;PERAS, MANZANAS, FRESAS, BANANA;Cesar Chavez CaNarte;$5 a $10 dolares
+11/6/2023;5.2;PERAS, FRESAS, BANANA, SANDIA, MELoN;Cesar Chavez CaNarte;$15 a $20 dolares
+5/6/2023;6.1;MANZANAS, FRESAS, BANANA;Av. Olmedo;$5 a $10 dolares
+6/6/2023;6.1;PERAS, SANDIA, MELoN, UVAS;Av. Olmedo;$5 a $10 dolares
+7/6/2023;6.1;PERAS, MANZANAS;Av. Olmedo;$5 a $10 dolares
+8/6/2023;6.1;BANANA, SANDIA, PINA, MELoN;Av. Olmedo;$5 a $10 dolares
+9/6/2023;6.1;MANZANAS, FRESAS, SANDIA;Av. Olmedo;$5 a $10 dolares
+10/6/2023;6.1;MANZANAS, FRESAS, BANANA;Av. Olmedo;$5 a $10 dolares
+11/6/2023;6.1;PERAS, MANZANAS, BANANA, SANDIA, MELoN;Av. Olmedo;$5 a $10 dolares
+5/6/2023;7.2;PERAS, MANZANAS, FRESAS, PINA, UVAS;Calle JuaN MoNtalvo;$5 a $10 dolares
+6/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle JuaN MoNtalvo;$5 a $10 dolares
+7/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle JuaN MoNtalvo;$5 a $10 dolares
+8/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle JuaN MoNtalvo;$15 a $20 dolares
+9/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle JuaN MoNtalvo;$20 a $25 dolares
+10/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle JuaN MoNtalvo;$15 a $20 dolares
+11/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle JuaN MoNtalvo;$25 a $30 dolares
+5/6/2023;1.2;MANZANAS, FRESAS, BANANA, SANDIA, PINA;Av. Pedro Gual;$20 a $25 dolares
+6/6/2023;1.2;FRESAS, BANANA;Av. Pedro Gual;$5 a $10 dolares
+7/6/2023;1.2;MANZANAS, BANANA, SANDIA, MELoN, UVAS;Av. Pedro Gual;$15 a $20 dolares
+8/6/2023;1.2;FRESAS, BANANA;Av. Pedro Gual;$5 a $10 dolares
+9/6/2023;1.2;PERAS, MANZANAS, FRESAS, PINA;Av. Pedro Gual;$10 a $15 dolares
+10/6/2023;1.2;MELoN;Av. Pedro Gual;$5 a $10 dolares
+11/6/2023;1.2;MANZANAS;Av. Pedro Gual;$5 a $10 dolares
+5/6/2023;2.1;PERAS, MANZANAS, FRESAS, SANDIA, PINA, UVAS;Calle 10 de Agosto ;$30 a $35 dolares
+6/6/2023;2.1;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, MELoN, UVAS;Calle 10 de Agosto ;$35 a $40 dolares
+7/6/2023;2.1;BANANA;Calle 10 de Agosto ;$25 a $30 dolares
+8/6/2023;2.1;PERAS, MANZANAS, PINA, MELoN, UVAS;Calle 10 de Agosto ;$30 a $35 dolares
+9/6/2023;2.1;PERAS, MANZANAS, UVAS;Calle 10 de Agosto ;$30 a $35 dolares
+10/6/2023;2.1;PERAS, MANZANAS, FRESAS, MELoN, UVAS;Calle 10 de Agosto ;$25 a $30 dolares
+11/6/2023;2.1;SANDIA, PINA;Calle 10 de Agosto ;$30 a $35 dolares
+5/6/2023;3.3;PERAS, MANZANAS, FRESAS, SANDIA;Av. Ramos Iduarte;$5 a $10 dolares
+6/6/2023;3.3;PERAS, MANZANAS, BANANA, SANDIA;Av. Ramos Iduarte;$10 a $15 dolares
+7/6/2023;3.3;PERAS, BANANA, UVAS;Av. Ramos Iduarte;$5 a $10 dolares
+8/6/2023;3.3;FRESAS, SANDIA, PINA, MELoN;Av. Ramos Iduarte;$5 a $10 dolares
+9/6/2023;3.3;MANZANAS, FRESAS, BANANA;Av. Ramos Iduarte;$5 a $10 dolares
+10/6/2023;3.3;BANANA, SANDIA, PINA, MELoN, UVAS;Av. Ramos Iduarte;$5 a $10 dolares
+11/6/2023;3.3;MANZANAS, SANDIA, UVAS;Av. Ramos Iduarte;$5 a $10 dolares
+5/6/2023;4.2;MANZANAS, UVAS;Sucre;$10 a $15 dolares
+6/6/2023;4.2;MANZANAS, FRESAS, SANDIA, PINA, MELoN, UVAS;Sucre;$20 a $25 dolares
+7/6/2023;4.2;MANZANAS, FRESAS, BANANA, PINA, MELoN;Sucre;$20 a $25 dolares
+8/6/2023;4.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA;Sucre;$10 a $15 dolares
+9/6/2023;4.2;MANZANAS, SANDIA, PINA, MELoN;Sucre;$10 a $15 dolares
+10/6/2023;4.2;PERAS, MANZANAS, FRESAS, BANANA, MELoN;Sucre;$10 a $15 dolares
+11/6/2023;4.2;FRESAS, PINA, MELoN, UVAS;Sucre;$10 a $15 dolares
+5/6/2023;5.2;FRESAS, BANANA;Av. America;$5 a $10 dolares
+6/6/2023;5.2;PERAS, MANZANAS, FRESAS, SANDIA, UVAS;Av. America;$15 a $20 dolares
+7/6/2023;5.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN, UVAS;Av. America;$20 a $25 dolares
+8/6/2023;5.2;PERAS, MANZANAS, FRESAS, SANDIA, PINA, MELoN, UVAS;Av. America;$20 a $25 dolares
+9/6/2023;5.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN;Av. America;$20 a $25 dolares
+10/6/2023;5.2;PERAS, MANZANAS, FRESAS, BANANA, SANDIA, PINA, MELoN, UVAS;Av. America;$30 a $35 dolares
+11/6/2023;5.2;PERAS, MANZANAS, BANANA, SANDIA, MELoN, UVAS;Av. America;$15 a $20 dolares
+5/6/2023;6.1;MANZANAS, FRESAS;Cesar Chavez CaNarte;$5 a $10 dolares
+6/6/2023;6.1;PERAS, SANDIA, UVAS;Cesar Chavez CaNarte;$5 a $10 dolares
+7/6/2023;6.1;PERAS, FRESAS, SANDIA;Cesar Chavez CaNarte;$5 a $10 dolares
+8/6/2023;6.1;PERAS, MANZANAS, FRESAS;Cesar Chavez CaNarte;$5 a $10 dolares
+9/6/2023;6.1;PERAS, MANZANAS, SANDIA, PINA, UVAS;Cesar Chavez CaNarte;$10 a $15 dolares
+10/6/2023;6.1;PERAS, MANZANAS;Cesar Chavez CaNarte;$5 a $10 dolares
+11/6/2023;6.1;PERAS, MANZANAS, PINA;Cesar Chavez CaNarte;$5 a $10 dolares
+5/6/2023;7.2;PERAS, MANZANAS, FRESAS, PINA, UVAS;Calle SimoN Bolivar;$15 a $20 dolares
+6/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle SimoN Bolivar;$5 a $10 dolares
+7/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle SimoN Bolivar;$20 a $25 dolares
+8/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle SimoN Bolivar;$20 a $25 dolares
+9/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle SimoN Bolivar;$20 a $25 dolares
+10/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle SimoN Bolivar;$5 a $10 dolares
+11/6/2023;7.2;PERAS, MANZANAS, FRESAS, BANANA, PINA, UVAS;Calle SimoN Bolivar;$20 a $25 dolares
